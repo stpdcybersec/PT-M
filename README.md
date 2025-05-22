@@ -1,2 +1,8 @@
 # PT-M
-Laboratory work "technologies and methods of programming 2025"
+1 лабораторная: 
+
+2 лабораторная: 
+
+3 лабораторная: 
+
+4 лабораторная: 
